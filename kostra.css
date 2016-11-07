@@ -1,0 +1,53 @@
+   .header 
+      {
+        height:100px;
+        margin: 0;
+        padding:15px;
+        color:white;
+        background-color:GreenYellow;
+        text-align:center;
+        clear:left;
+      }
+      
+      
+   .menu  
+      {
+        background-color:yellow;
+        float:left;
+        width:260px;
+        height: 623px;
+        margin:0;   
+        
+        border-right:1px solid #777;
+        padding:10px;
+      }
+      
+  
+   .content 
+      {
+        background-color: lightGoldenRodYellow;
+        float: left;
+        width:1596px;
+        height: 643px;
+        margin:0px;
+        border-left:1px solid BLACK;
+      }
+      
+   
+    h1.modra 
+      {
+        color: Blue;
+        font-size: 50px;
+        margin: 0px;
+      }
+          
+    
+    h1.mensinadpisy 
+      {
+        color: 000000;
+        font-size: 20px;
+        text-align:center;
+        margin: 0px;
+      
+      } 
+         
